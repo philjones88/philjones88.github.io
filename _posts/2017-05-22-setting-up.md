@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "A new blog"
+title:  "Hello World, again."
 date:   2017-05-22 07:43:04 +0100
 categories: jekyll welcome
 ---
-
-# Hello World, again.
 
 This is my new blog running on Jekyll, ages ago I got fed up of trying to get WordPress to bend to my will, so let's see how this goes!
 
