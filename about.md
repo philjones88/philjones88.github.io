@@ -14,4 +14,6 @@ Outside of writing code I'm a complete petrol head. I ride motorbikes and like f
 
 My current motorbike is a 2013 Triumph Tiger Sport 1050 which I found to be the best of not killing your back but having enough power to match almost all cars.
 
-My current car is a 2016 BMW M140i in orange. I've always loved M Performance cars and this is the first toe in the water of performance cars being an "m lite" BMW. The V6 is frankly lovely and it gives my bike a real run for it's money at 3.7 seconds 0-60!
+My current car is a 2016 BMW M140i in orange. I've always loved M Performance cars and this is the first toe in the water of performance cars being an "m lite" BMW. The V6 is frankly lovely and it gives my bike a real run for it's money at around 3.7 seconds 0-60mph!
+
+![Bike and car](/assets/images/bike_car.jpg)
