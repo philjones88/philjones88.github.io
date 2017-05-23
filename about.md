@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Phil Jones. I'm a developer who likes front end technologies primarily but likes to play with bits of tech at all levels of the stack.
 
-Currently I work at [VQ Communications Ltd](https://www.vqcomms.com) as well, erm, a bit of everything. I do the web interface, lead the automated Protractor testing, lead the automated Jenkins build effort and chip in everywhere where I'm needed. From Docker to Angular, it's a varied and great environment to work in!
+Currently I work at [VQ Communications Ltd](https://www.vqcomms.com) doing well, erm, a bit of everything. I do the web interface, lead the automated Protractor testing, lead the automated Jenkins build effort and chip in everywhere where I'm needed. From Docker to Angular, it's a varied and great environment to work in!
 
 I currently live in the city of Bristol in the UK.
 
