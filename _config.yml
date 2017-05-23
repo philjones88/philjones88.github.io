@@ -27,7 +27,6 @@ github_username:  philjones88
 markdown: kramdown
 gems:
   - jekyll-feed
-  - bootstrap
 exclude:
   - Gemfile
   - Gemfile.lock
