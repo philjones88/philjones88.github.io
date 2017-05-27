@@ -2,7 +2,7 @@
 layout: post
 title:  "Angular (2+) Pre Bootstrap loading"
 date:   2017-05-27 13:01:22 +0100
-categories: jekyll github-pages
+categories: jekyll angular angular2 loading
 ---
 
 In an ideal world with AoT (ahead of time) compilation and lazy loading I shouldn't need a loading indicator, however Angular still doesn't seem to be at this point.
@@ -28,6 +28,6 @@ Not too much of a fan of this but I want a clean transition from the loading ind
 
 #### References
 
-[1] https://stackoverflow.com/a/34435128/156728
+[1] [https://stackoverflow.com/a/34435128/156728](https://stackoverflow.com/a/34435128/156728)
 
-[2] https://stackoverflow.com/a/35244932/156728
+[2] [https://stackoverflow.com/a/35244932/156728](https://stackoverflow.com/a/35244932/156728)
