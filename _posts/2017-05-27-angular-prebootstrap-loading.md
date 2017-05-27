@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Angular (2+) Pre Bootstrap loading"
-date:   2017-05-22 07:43:04 +0100
+date:   2017-05-27 13:01:22 +0100
 categories: jekyll github-pages
 ---
 
