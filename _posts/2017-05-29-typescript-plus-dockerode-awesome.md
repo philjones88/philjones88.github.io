@@ -33,7 +33,7 @@ or
 
 Import and use Dockerode:
 
-```
+```typescript
 import * as Dockerode from 'dockerode';
 
 let dockerode = new Dockerode();
@@ -57,7 +57,7 @@ Some cool things you can do are:
 
 I.e. get the contents of `docker logs <container name>`
 
-```
+```typescript
 let dockerode = new Dockerode();
 
 let container = dockerode.getContainer('foo');
@@ -85,7 +85,7 @@ container.logs({ stdout: true, stderr: true, follow: false }, (error, stream) =>
 
 This is good if you want to grab local log files out of a container, like `docker cp`.
 
-```
+```typescript
 let dockerode = new Dockerode();
 
 let container = dockerode.getContainer('foo');
@@ -114,7 +114,7 @@ container.getArchive({ path: targetFolderPath }, (error: any, stream: NodeJS.Rea
 
 This is handy if you want to override config files without rebuilding the container, like `docker cp`.
 
-```
+```typescript
 let destContainer = this.dockerode.getContainer('foo');
 
 let configFiles = targz({}, { fromBase: true })
@@ -133,7 +133,7 @@ destContainer.putArchive(configFiles, { path: '/path/in/container/' }, (writeErr
 
 When you create a container I couldn't see a way to add it to container like you do with `docker run` so here's how you can connect a container to an existing Docker network with Dockerode.
 
-```
+```typescript
 let dockerode = new Dockerode();
 
 let container = dockerode.getContainer('foo');
